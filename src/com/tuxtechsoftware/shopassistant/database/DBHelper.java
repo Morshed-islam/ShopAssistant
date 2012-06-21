@@ -1,4 +1,4 @@
-package tuxtechsoftware.com.shopassistant.database;
+package com.tuxtechsoftware.shopassistant.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

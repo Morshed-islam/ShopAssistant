@@ -1,4 +1,4 @@
-package tuxtechsoftware.com.shopassistant;
+package com.tuxtechsoftware.shopassistant;
 
 import android.app.Activity;
 import android.os.Bundle;

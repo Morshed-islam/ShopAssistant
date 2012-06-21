@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, ShopAssistantActivity!</string>
     <string name="app_name">ShopAssistant</string>
+    <string name="search_products">Search for product</string>
+    <string name="search">Search</string>
 
 </resources>
